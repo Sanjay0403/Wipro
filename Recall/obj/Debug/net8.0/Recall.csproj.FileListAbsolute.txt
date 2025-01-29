@@ -1,0 +1,14 @@
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\bin\Debug\net8.0\Recall.exe
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\bin\Debug\net8.0\Recall.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\bin\Debug\net8.0\Recall.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\bin\Debug\net8.0\Recall.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\bin\Debug\net8.0\Recall.pdb
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\obj\Debug\net8.0\Recall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\obj\Debug\net8.0\Recall.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\obj\Debug\net8.0\Recall.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\obj\Debug\net8.0\Recall.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\obj\Debug\net8.0\Recall.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\obj\Debug\net8.0\refint\Recall.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\obj\Debug\net8.0\Recall.pdb
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\obj\Debug\net8.0\Recall.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\Recall\obj\Debug\net8.0\ref\Recall.dll
