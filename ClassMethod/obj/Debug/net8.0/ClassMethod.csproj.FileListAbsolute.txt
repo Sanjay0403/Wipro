@@ -1,0 +1,14 @@
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\bin\Debug\net8.0\ClassMethod.exe
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\bin\Debug\net8.0\ClassMethod.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\bin\Debug\net8.0\ClassMethod.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\bin\Debug\net8.0\ClassMethod.dll
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\bin\Debug\net8.0\ClassMethod.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.dll
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\obj\Debug\net8.0\refint\ClassMethod.dll
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\obj\Debug\net8.0\ClassMethod.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDay3\ClassMethod\ClassMethod\obj\Debug\net8.0\ref\ClassMethod.dll
