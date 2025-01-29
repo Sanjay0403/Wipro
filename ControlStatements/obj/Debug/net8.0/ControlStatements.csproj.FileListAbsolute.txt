@@ -1,0 +1,14 @@
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\bin\Debug\net8.0\ControlStatements.exe
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\bin\Debug\net8.0\ControlStatements.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\bin\Debug\net8.0\ControlStatements.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\bin\Debug\net8.0\ControlStatements.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\bin\Debug\net8.0\ControlStatements.pdb
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\obj\Debug\net8.0\ControlStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\obj\Debug\net8.0\ControlStatements.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\obj\Debug\net8.0\ControlStatements.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\obj\Debug\net8.0\ControlStatements.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\obj\Debug\net8.0\ControlStatements.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\obj\Debug\net8.0\refint\ControlStatements.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\obj\Debug\net8.0\ControlStatements.pdb
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\obj\Debug\net8.0\ControlStatements.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\ControlStatements\obj\Debug\net8.0\ref\ControlStatements.dll
