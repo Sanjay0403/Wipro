@@ -1,0 +1,14 @@
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\obj\Debug\net8.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\obj\Debug\net8.0\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\bin\Debug\net8.0\AccessModifiers.exe
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\bin\Debug\net8.0\AccessModifiers.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\bin\Debug\net8.0\AccessModifiers.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\bin\Debug\net8.0\AccessModifiers.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\bin\Debug\net8.0\AccessModifiers.pdb
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\obj\Debug\net8.0\AccessModifiers.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\obj\Debug\net8.0\refint\AccessModifiers.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\obj\Debug\net8.0\AccessModifiers.pdb
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\obj\Debug\net8.0\AccessModifiers.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\AccessModifiers\obj\Debug\net8.0\ref\AccessModifiers.dll
