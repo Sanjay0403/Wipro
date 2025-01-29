@@ -1,0 +1,14 @@
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\bin\Debug\net8.0\StringAppend.exe
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\bin\Debug\net8.0\StringAppend.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\bin\Debug\net8.0\StringAppend.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\bin\Debug\net8.0\StringAppend.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\bin\Debug\net8.0\StringAppend.pdb
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\obj\Debug\net8.0\StringAppend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\obj\Debug\net8.0\StringAppend.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\obj\Debug\net8.0\StringAppend.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\obj\Debug\net8.0\StringAppend.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\obj\Debug\net8.0\StringAppend.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\obj\Debug\net8.0\refint\StringAppend.dll
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\obj\Debug\net8.0\StringAppend.pdb
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\obj\Debug\net8.0\StringAppend.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDayOne\WiproDayTwo\obj\Debug\net8.0\ref\StringAppend.dll
