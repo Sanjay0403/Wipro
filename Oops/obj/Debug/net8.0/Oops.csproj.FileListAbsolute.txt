@@ -1,0 +1,14 @@
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\bin\Debug\net8.0\Oops.exe
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\bin\Debug\net8.0\Oops.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\bin\Debug\net8.0\Oops.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\bin\Debug\net8.0\Oops.dll
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\bin\Debug\net8.0\Oops.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\obj\Debug\net8.0\Oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\obj\Debug\net8.0\Oops.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\obj\Debug\net8.0\Oops.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\obj\Debug\net8.0\Oops.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\obj\Debug\net8.0\Oops.dll
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\obj\Debug\net8.0\refint\Oops.dll
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\obj\Debug\net8.0\Oops.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\obj\Debug\net8.0\Oops.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\Oops\obj\Debug\net8.0\ref\Oops.dll
