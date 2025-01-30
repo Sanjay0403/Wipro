@@ -1,0 +1,15 @@
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\bin\Debug\net8.0\InterfaceMethod.exe
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\bin\Debug\net8.0\InterfaceMethod.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\bin\Debug\net8.0\InterfaceMethod.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\bin\Debug\net8.0\InterfaceMethod.dll
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\bin\Debug\net8.0\InterfaceMethod.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\obj\Debug\net8.0\InterfaceMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\obj\Debug\net8.0\InterfaceMethod.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\obj\Debug\net8.0\InterfaceMethod.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\obj\Debug\net8.0\InterfaceMethod.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\obj\Debug\net8.0\InterfaceMethod.sourcelink.json
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\obj\Debug\net8.0\InterfaceMethod.dll
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\obj\Debug\net8.0\refint\InterfaceMethod.dll
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\obj\Debug\net8.0\InterfaceMethod.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\obj\Debug\net8.0\InterfaceMethod.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\InterfaceMethod\obj\Debug\net8.0\ref\InterfaceMethod.dll
