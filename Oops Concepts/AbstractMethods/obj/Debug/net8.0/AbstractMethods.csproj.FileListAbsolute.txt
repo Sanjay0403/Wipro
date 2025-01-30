@@ -1,0 +1,15 @@
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\bin\Debug\net8.0\AbstractMethods.exe
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\bin\Debug\net8.0\AbstractMethods.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\bin\Debug\net8.0\AbstractMethods.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\bin\Debug\net8.0\AbstractMethods.dll
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\bin\Debug\net8.0\AbstractMethods.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\obj\Debug\net8.0\AbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\obj\Debug\net8.0\AbstractMethods.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\obj\Debug\net8.0\AbstractMethods.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\obj\Debug\net8.0\AbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\obj\Debug\net8.0\AbstractMethods.sourcelink.json
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\obj\Debug\net8.0\AbstractMethods.dll
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\obj\Debug\net8.0\refint\AbstractMethods.dll
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\obj\Debug\net8.0\AbstractMethods.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\obj\Debug\net8.0\AbstractMethods.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDay4\Oops\AbstractMethods\obj\Debug\net8.0\ref\AbstractMethods.dll
