@@ -1,0 +1,14 @@
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\bin\Debug\net8.0\FileConcepts.exe
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\bin\Debug\net8.0\FileConcepts.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\bin\Debug\net8.0\FileConcepts.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\bin\Debug\net8.0\FileConcepts.dll
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\bin\Debug\net8.0\FileConcepts.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\obj\Debug\net8.0\FileConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\obj\Debug\net8.0\FileConcepts.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\obj\Debug\net8.0\FileConcepts.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\obj\Debug\net8.0\FileConcepts.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\obj\Debug\net8.0\FileConcepts.dll
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\obj\Debug\net8.0\refint\FileConcepts.dll
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\obj\Debug\net8.0\FileConcepts.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\obj\Debug\net8.0\FileConcepts.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\FileConcepts\obj\Debug\net8.0\ref\FileConcepts.dll
