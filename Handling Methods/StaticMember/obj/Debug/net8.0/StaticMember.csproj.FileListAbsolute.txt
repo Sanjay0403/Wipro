@@ -1,0 +1,14 @@
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\bin\Debug\net8.0\StaticMember.exe
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\bin\Debug\net8.0\StaticMember.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\bin\Debug\net8.0\StaticMember.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\bin\Debug\net8.0\StaticMember.dll
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\bin\Debug\net8.0\StaticMember.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\obj\Debug\net8.0\StaticMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\obj\Debug\net8.0\StaticMember.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\obj\Debug\net8.0\StaticMember.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\obj\Debug\net8.0\StaticMember.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\obj\Debug\net8.0\StaticMember.dll
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\obj\Debug\net8.0\refint\StaticMember.dll
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\obj\Debug\net8.0\StaticMember.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\obj\Debug\net8.0\StaticMember.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\StaticMember\obj\Debug\net8.0\ref\StaticMember.dll
