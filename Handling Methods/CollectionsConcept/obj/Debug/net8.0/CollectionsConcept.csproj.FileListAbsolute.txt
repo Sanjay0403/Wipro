@@ -1,0 +1,14 @@
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\bin\Debug\net8.0\CollectionsConcept.exe
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\bin\Debug\net8.0\CollectionsConcept.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\bin\Debug\net8.0\CollectionsConcept.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\bin\Debug\net8.0\CollectionsConcept.dll
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\bin\Debug\net8.0\CollectionsConcept.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\obj\Debug\net8.0\CollectionsConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\obj\Debug\net8.0\CollectionsConcept.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\obj\Debug\net8.0\CollectionsConcept.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\obj\Debug\net8.0\CollectionsConcept.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\obj\Debug\net8.0\CollectionsConcept.dll
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\obj\Debug\net8.0\refint\CollectionsConcept.dll
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\obj\Debug\net8.0\CollectionsConcept.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\obj\Debug\net8.0\CollectionsConcept.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDay5\MultipleInheritance\CollectionsConcept\obj\Debug\net8.0\ref\CollectionsConcept.dll
