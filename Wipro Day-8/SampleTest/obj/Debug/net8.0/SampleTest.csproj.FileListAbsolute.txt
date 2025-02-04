@@ -1,0 +1,14 @@
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\bin\Debug\net8.0\SampleTest.exe
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\bin\Debug\net8.0\SampleTest.deps.json
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\bin\Debug\net8.0\SampleTest.runtimeconfig.json
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\bin\Debug\net8.0\SampleTest.dll
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\bin\Debug\net8.0\SampleTest.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\obj\Debug\net8.0\SampleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\obj\Debug\net8.0\SampleTest.AssemblyInfoInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\obj\Debug\net8.0\SampleTest.AssemblyInfo.cs
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\obj\Debug\net8.0\SampleTest.csproj.CoreCompileInputs.cache
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\obj\Debug\net8.0\SampleTest.dll
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\obj\Debug\net8.0\refint\SampleTest.dll
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\obj\Debug\net8.0\SampleTest.pdb
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\obj\Debug\net8.0\SampleTest.genruntimeconfig.cache
+C:\Users\sanjaydeep\source\repos\WiproDay8\SampleTest\SampleTest\obj\Debug\net8.0\ref\SampleTest.dll
