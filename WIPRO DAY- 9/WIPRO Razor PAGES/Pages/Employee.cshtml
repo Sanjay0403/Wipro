@@ -1,0 +1,21 @@
+﻿@page
+@model WiproDemoRazerPages.Pages.EmployeeModel
+@{
+}
+<h1>@ViewData["Message"]	</h1>
+<form method="post">
+
+	<label for"Id>EmployeeID:</label>"
+	<input type="number" id="Id" asp-for="emps.Id" />
+	<br />
+	<label for="Name">EmployeeName:</label>
+	<input type="text" id="Name" asp-for="emps.Name" />
+	<br />
+
+	<button type="submit">Save</button>
+
+</form>
+
+<h2>Employee Details</h2>
+<p>Id: @Model.emps.Id</p>
+<p>Name: @Model.emps.Name</p>
