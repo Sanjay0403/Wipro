@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GDbrRexjo3zbCF7snOLkV1uZgM1YLvgoinwl8+pbtYg=",
+  "Source": "DemoWebApi",
+  "BasePath": "_content/DemoWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
